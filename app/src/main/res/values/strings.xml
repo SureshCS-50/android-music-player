@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MusicPlayerApplication</string>
+    <string name="app_title">Ola Player - HackerEarth</string>
+    <string name="cd_search">Search songs here..</string>
+    <string name="cd_cover_image">Cover image</string>
+    <string name="cd_song_title">Song title</string>
+    <string name="cd_artists">Artists</string>
+    <string name="cd_media_previous_button">Media Previous Button</string>
+    <string name="cd_play_pause_song">Play/Pause song</string>
+    <string name="cd_next_button">Play Next</string>
+    <string name="cd_fav">Favourites</string>
+    <string name="cd_favourite">Favourite</string>
+    <string name="cd_repeat">Repeat one or all</string>
+    <string name="cd_previous">Skip backwards</string>
+    <string name="cd_play">Play and pause</string>
+    <string name="cd_next">Skip forwards</string>
+    <string name="portfolio">Portfolio</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
